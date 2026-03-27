@@ -2,7 +2,7 @@
 
 # 🏠 Home Lab Architecture
 
-This repository documents the architecture, networking, and security design of a segmented home lab environment built using enterprise-style principles.
+This project showcases a segmented home lab environment designed using enterprise networking and security principles.
 
 ---
 
