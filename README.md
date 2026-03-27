@@ -15,6 +15,19 @@ This lab is built around:
 * Docker + self-hosted services
 * Centralized monitoring and security tools
 
+## 📊 Architecture Diagram
+
+![Home Lab Architecture](docs/diagrams/architecture.png)
+
+### 🔎 Overview
+
+This diagram represents a segmented home lab environment with:
+
+- External access secured via Cloudflare Zero Trust
+- Internal segmentation across multiple VLANs
+- Centralized compute using Proxmox
+- Containerized services and monitoring stack
+
 ---
 
 ## 📊 Diagram
