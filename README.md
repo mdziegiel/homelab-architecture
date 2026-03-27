@@ -55,7 +55,8 @@ This diagram represents a segmented home lab environment with:
 
 ## 📂 Documentation
 
-* [Architecture](docs/architecture.md)
+- [Architecture](docs/architecture.md)
+- [Network Design](docs/network.md)
 
 ---
 
