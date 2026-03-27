@@ -65,3 +65,7 @@ docs/
   architecture.md
   network.md
 ```
+
+## 📂 Documentation
+
+- [Architecture](docs/architecture.md)
