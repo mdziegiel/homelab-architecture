@@ -58,6 +58,7 @@ This diagram represents a segmented home lab environment with:
 - [Architecture](docs/architecture.md)
 - [Network Design](docs/network.md)
 - [Services](docs/services.md)
+- [Security](docs/security.md)
 
 ---
 
