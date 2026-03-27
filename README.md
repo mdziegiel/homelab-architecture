@@ -1,3 +1,7 @@
+![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-orange)
+![UniFi](https://img.shields.io/badge/UniFi-Network-blue)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-ZeroTrust-F38020)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED)
 # 🏠 Home Lab Architecture
 
 This repository documents the architecture, networking, and security design of my home lab environment.
