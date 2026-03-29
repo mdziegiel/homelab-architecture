@@ -32,7 +32,7 @@ This environment is built around:
 ## 📊 Architecture Diagram
 
 <p align="center">
-  <img src="docs/diagrams/architecture.png" width="900">
+  <img src="docs/diagrams/architecture-v2.png" width="900">
 </p>
 
 ### 🔎 Overview
