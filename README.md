@@ -2,7 +2,7 @@
 
 # 🏠 Home Lab Architecture
 
-This project showcases a segmented home lab environment designed using enterprise networking and security principles.
+This project showcases a segmented home lab environment I designed to reflect enterprise networking and security principles.
 
 ---
 
